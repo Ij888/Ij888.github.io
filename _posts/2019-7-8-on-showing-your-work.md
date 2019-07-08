@@ -3,21 +3,13 @@ layout: post
 title: On showing your work
 ---
 
-This is a demo of all styled elements in Jekyll Now.
-
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
-
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
-## Header 2 (H1 is reserved for post titles)##
+##Evaluating Markdown, documenting your work and other dev stories
 
-### Header 3
+### Evaluating Markdown
 
-#### Header 4
-
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
-An image, located within /images
+After trying various platforms for documenting work, [Hugo](https://gohugo.io) and [Jekyll](https://jekyllrb.com/) appealed the most of the bunch. Their ease of use, especially the static site generation, SSG, was a strong deciding factor for taking deep dives into the mechanics of how these platforms work. The fact that you could template therein was also a clincher! 
 
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
