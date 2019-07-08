@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ON showing your work
+title: On showing your work
 ---
 
 This is a demo of all styled elements in Jekyll Now.
